@@ -2,4 +2,4 @@
 
 
 
-### [Connect with me 💬]([https://avibhawnani.carrd.co/#](https://bio.link/avibhawnani)https://bio.link/avibhawnani)
+### [Connect with me 💬](https://bio.link/avibhawnani)
