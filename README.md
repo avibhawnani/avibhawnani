@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm [Avi !](https://avibhawnani.netlify.com/)
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm [Avi !](https://avibhawnani.netlify.app/)
 
 
 ### [Connect with me 😉 ](https://bio.link/avibhawnani)
