@@ -1,7 +1,7 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm [Avi !](https://avibhawnani.netlify.app/)
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm [Avi !](https://avibhawnani.github.io)
 
 
-### [Connect with me 😉 ](https://bio.link/avibhawnani)
+### [Connect with me 😉 ](https://avibhawnani.github.io/)
 
 
 ## 🛠️ **Languages & Tools**
